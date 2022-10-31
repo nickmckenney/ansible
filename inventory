@@ -1,2 +1,5 @@
+[web_server]
 side1@192.168.88.129
+
+[db_server]
 side2@192.168.88.130
